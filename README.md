@@ -18,5 +18,6 @@ A menu system has been implemented to select levels and manage gameplay.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SEU_CODIGO_DO_VIDEO](https://www.youtube.com/watch?v=a_O5_5yBl_w" frameborder="0" allowfullscreen></iframe>
 
+[![Alt Text](https://img.youtube.com/vi/a_O5_5yBl_w/0.jpg)](https://www.youtube.com/watch?v=a_O5_5yBl_w "Clique para assistir ao vídeo!")
 
 <iframe width="640" height="360" src="" frameborder="0" allow="autoplay; fullscreen"></iframe>
