@@ -21,3 +21,5 @@ A menu system has been implemented to select levels and manage gameplay.
 [![Alt Text](https://img.youtube.com/vi/a_O5_5yBl_w/0.jpg)](https://www.youtube.com/watch?v=a_O5_5yBl_w "Clique para assistir ao vídeo!")
 
 <iframe width="640" height="360" src="" frameborder="0" allow="autoplay; fullscreen"></iframe>
+
+[![Alt Text](https://img.youtube.com/vi/CKR9fQD4cmA/0.jpg)](https://www.youtube.com/watch?v=CKR9fQD4cmA "Clique para assistir ao vídeo!")
