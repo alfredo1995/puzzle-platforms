@@ -16,8 +16,7 @@ A menu system has been implemented to select levels and manage gameplay.
 
 
 
-https://github.com/alfredo1995/collaboratize-puzzle-plataform/assets/71193893/5390365d-059b-4a50-8764-1ab70fc98bcc
+https://github.com/alfredo1995/collaboratize-puzzle-plataform/assets/71193893/6dc4c585-afbe-4fd4-be6f-e7081d0245e7
 
 
 
-[![Alt Text](https://img.youtube.com/vi/CKR9fQD4cmA/0.jpg)](https://www.youtube.com/watch?v=CKR9fQD4cmA "Clique para assistir ao vídeo!")
