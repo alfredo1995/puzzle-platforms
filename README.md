@@ -12,7 +12,7 @@ Mobile platforms have been implemented with server physics and authority.
 
 Platform triggers were created to activate and deactivate platforms based on player interaction.
 
-A menu system has been implemented to select levels and manage gameplay.
+A menu system has been implemented to select levels and manage gameplay. 
 
 
 
