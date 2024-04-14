@@ -4,6 +4,9 @@
 
 #include "Engine/Engine.h"
 
+class APlayerController;
+
+
 UPuzzlePlatformsGameInstance::UPuzzlePlatformsGameInstance(const FObjectInitializer & ObjectInitializer)
 {
 	UE_LOG(LogTemp, Warning, TEXT("GameInstance Constructor"));
