@@ -14,9 +14,7 @@ Platform triggers were created to activate and deactivate platforms based on pla
 
 A menu system has been implemented to select levels and manage gameplay. 
 
-
-
-https://github.com/alfredo1995/collaboratize-puzzle-plataform/assets/71193893/6dc4c585-afbe-4fd4-be6f-e7081d0245e7
+https://youtu.be/299KMDQOwiI 
 
 
 
