@@ -8,7 +8,7 @@ Server Physics and Authority for Mobile Platforms: Mobile platforms are impleme
 
 Interactive Platform Triggers: Create dynamic platforms that react to player interaction, adding a new layer of strategy and challenge to gameplay.
 
-Motion replication ensures that all players see the same scene in real time, synchronizing player actions and positions through constant data packets.  This is crucial for a smooth, lag-free multiplayer experience, ensuring all players are on the same page and experiencing the game consistently.
+Motion replication ensures that all players see the same scene in real time, synchronizing player actions and positions through constant data packets.
 
 
 ![Puzzle de Plataforma Multiplayer em C++  Authority e Replication para Client-Server Unreal Engine](https://github.com/alfredo1995/collaboratize-puzzle-plataform/assets/71193893/fd7dac80-6daf-455b-af95-96452bd57e86)
