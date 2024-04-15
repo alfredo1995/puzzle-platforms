@@ -1,17 +1,14 @@
-Development:
+C++ Multiplayer Platform Puzzle Game on Unreal Engine.  Using a client-server model, with a dedicated server and clients that connect to play.
 
-The game uses a client-server model, with a dedicated server and clients that connect to play.
+Engaging Multiplayer Experience: Play as a team and use your combined skills to overcome obstacles and solve puzzles.
 
-Motion replication is used to ensure that all players see the same scene.
+Robust Client-Server Model: A dedicated server ensures smooth, reliable gameplay, while motion replication ensures all players see the same scene in real time.
 
-Custom widgets have been created to display game information.
+Server Physics and Authority for Mobile Platforms: Mobile platforms are implemented with accurate physics and server authority, ensuring a fair and consistent experience for all players.
 
-Mobile platforms have been implemented with server physics and authority.
+Interactive Platform Triggers: Create dynamic platforms that react to player interaction, adding a new layer of strategy and challenge to gameplay.
 
-Platform triggers were created to activate and deactivate platforms based on player interaction.
-
-A menu system has been implemented to select levels and manage gameplay. 
-
+Motion replication ensures that all players see the same scene in real time, synchronizing player actions and positions through constant data packets.  This is crucial for a smooth, lag-free multiplayer experience, ensuring all players are on the same page and experiencing the game consistently.
 
 
 ![Puzzle de Plataforma Multiplayer em C++  Authority e Replication para Client-Server Unreal Engine](https://github.com/alfredo1995/collaboratize-puzzle-plataform/assets/71193893/fd7dac80-6daf-455b-af95-96452bd57e86)
