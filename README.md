@@ -1,7 +1,4 @@
 <h2> Unreal Multiplayer  - Client-Sever - Puzzle Platforms </h2>
-
-![Puzzle de Plataforma Multiplayer em C++  Authority e Replication para Client-Server Unreal Engine](https://github.com/alfredo1995/collaboratize-puzzle-plataform/assets/71193893/fd7dac80-6daf-455b-af95-96452bd57e86)
-
     
     C++ Multiplayer Platform Puzzle Game on Unreal Engine.  Using a client-server model, with a dedicated server and clients that connect to play.
 
