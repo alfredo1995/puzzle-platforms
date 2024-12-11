@@ -3,7 +3,7 @@
     C++ Multiplayer Platform Puzzle Game on Unreal Engine.  Using a client-server model, with a dedicated server and clients that connect to play.
 
     Engaging Multiplayer Experience: Play as a team and use your combined skills to overcome obstacles and solve puzzles.
-
+ 
     Robust Client-Server Model: A dedicated server ensures smooth, reliable gameplay, while motion replication ensures all players see the same scene in real time.
 
     Server Physics and Authority for Mobile Platforms: Mobile platforms are implemented with accurate physics and server authority, ensuring a fair and consistent experience for all players.
