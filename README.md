@@ -6,7 +6,7 @@
  
     Robust Client-Server Model: A dedicated server ensures smooth, reliable gameplay, while motion replication ensures all players see the same scene in real time.
 
-    Server Physics and Authority for Mobile Platforms: Mobile platforms are implemented with accurate physics and server authority, ensuring a fair and consistent experience for all players.
+    Server Physics and Authority for Mobile Platforms: Mobile platforms are impleme nted with accurate physics and server authority, ensuring a fair and consistent experience for all players.
 
     Interactive Platform Triggers: Create dynamic platforms that react to player interaction, adding a new layer of strategy and challenge to gameplay.
 
