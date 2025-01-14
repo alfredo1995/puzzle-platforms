@@ -11,7 +11,7 @@
     Interactive Platform Triggers: Create dynamic platforms that react to player interaction, adding a new layer of strategy and challenge to gameplay.
 
     Motion replication ensures that all players see the same scene in real time, synchronizing player actions and positions through constant data packets.
-   
+    
 
 https://github.com/user-attachments/assets/274ea037-c9f7-4af2-9cd6-101a29a78276
 
